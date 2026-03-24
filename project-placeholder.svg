@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Project Preview Placeholder</title>
+  <desc id="desc">Placeholder thumbnail image for portfolio project card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="55%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <g fill="#e2e8f0" font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="332" font-size="58" font-weight="700">Project Preview</text>
+    <text x="640" y="392" font-size="32" opacity="0.9">Image will be added soon</text>
+  </g>
+</svg>
