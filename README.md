@@ -2,6 +2,17 @@
 
 Lični portfolio sajt za prijavu za praksu.
 
+## Description
+
+Personal portfolio website created to showcase my software engineering projects,
+technical skills and internship readiness.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
 ## Sadržaj
 
 - Početna sekcija (hero)
