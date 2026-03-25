@@ -1,6 +1,6 @@
 # Portfolio
 
-Lični portfolio sajt za prijavu za praksu.
+A personal portfolio website for internship applications.
 
 ## Description
 
@@ -17,27 +17,20 @@ technical skills and internship readiness.
 
 ![Portfolio Screenshot](portfolio-screenshot.jpg)
 
-## Sadržaj
+## Contents
 
-- Početna sekcija (hero)
-- O meni
-- Veštine
-- Projekti
-- Kontakt
+- Hero section
+- About me
+- Tech stack
+- Projects
 
-## Pokretanje lokalno
+## Run Locally
 
-Pošto je ovo statički sajt, dovoljno je da otvoriš `index.html` u browser-u.
+Since this is a static website, you can open index.html directly in your browser.
 
-## Prilagođavanje
+## Git Commands (Push to GitHub)
 
-- U `index.html` promeni ime, opis i kontakt podatke.
-- U sekciji **Projekti** dodaj svoje stvarne linkove za `Demo` i `GitHub`.
-- Po potrebi izmeni boje i stil u `styles.css`.
-
-## Git komande (push na GitHub)
-
-Ako si u folderu repozitorijuma (`Portfolio/Portfolio`), pokreni:
+If you are in the repository folder (Portfolio/Portfolio), run:
 
 ```bash
 git add .
@@ -45,18 +38,18 @@ git commit -m "Add internship portfolio website"
 git push origin main
 ```
 
-Ako je grana `master`, koristi:
+If your branch is master, use:
 
 ```bash
 git push origin master
 ```
 
-## Predlog za objavu (GitHub Pages)
+## Suggested Deployment (GitHub Pages)
 
-1. Na GitHub-u otvori repozitorijum.
-2. Idi na **Settings > Pages**.
-3. U "Build and deployment" izaberi:
-   - **Source**: Deploy from a branch
-   - **Branch**: `main` (ili `master`), folder `/root`
-4. Sačuvaj, pa sačekaj nekoliko minuta.
-5. Link sajta će biti prikazan u GitHub Pages sekciji.
+1. Open your repository on GitHub.
+2. Go to Settings > Pages.
+3. Under Build and deployment, choose:
+   - Source: Deploy from a branch
+   - Branch: main (or master), folder /root
+4. Save and wait a few minutes.
+5. Your site URL will appear in the GitHub Pages section.
