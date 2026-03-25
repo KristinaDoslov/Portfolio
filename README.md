@@ -13,6 +13,10 @@ technical skills and internship readiness.
 - CSS
 - JavaScript
 
+## Screenshot
+
+![Portfolio Screenshot](portfolio-screenshot.jpg)
+
 ## Sadržaj
 
 - Početna sekcija (hero)
