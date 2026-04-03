@@ -7,6 +7,17 @@ A personal portfolio website for internship applications.
 Personal portfolio website created to showcase my software engineering projects,
 technical skills and internship readiness.
 
+## Projects
+
+The portfolio currently includes:
+
+- Study Planner Web App  
+   GitHub: https://github.com/KristinaDoslov/StudyPlanner.git
+- ScreenTime  
+   GitHub: https://github.com/KristinaDoslov/ScreenTime.git
+
+Note: project cards currently include GitHub links only (no Live Demo links).
+
 ## Technologies
 
 - HTML
@@ -24,9 +35,22 @@ technical skills and internship readiness.
 - Tech stack
 - Projects
 
+## Project Images
+
+- `studyplanner-screenshot.jpg`
+- `ScreenTimeApplicationPicture.jpg`
+
 ## Run Locally
 
-Since this is a static website, you can open index.html directly in your browser.
+Since this is a static website, you can open `index.html` directly in your browser.
+
+Optional local server:
+
+```bash
+py -3 -m http.server 8080 --directory Portfolio
+```
+
+Then open: http://localhost:8080/
 
 ## Git Commands (Push to GitHub)
 
